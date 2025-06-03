@@ -8,7 +8,7 @@ Configure and test basic firewall rules to allow or block traffic using **Window
 
 ## 🛠️ Tools Used
 
-- Operating System: Windows 10/11
+- Operating System: Windows 11
 - Tool: Windows Defender Firewall with Advanced Security (GUI)
 - Screenshot Tool: Snipping Tool
 
